@@ -12,10 +12,10 @@ I am currently exploring ways to optimize performance in large-scale application
 Here’s a quick overview of some tools and technologies I work with on a daily basis:
 
 Frontend: Next.js, React, Tailwind CSS, TypeScript
+
 Backend: NestJS, Node.js, MongoDB,Golang
-State Management: Redux Toolkit, RTK Query
-Authentication: JWT, HTTP-only cookies
-Other Tools: Git, Docker, CI/CD, REST APIs
+
+Other Tools: Redux Toolkit, RTK Query, Git, Docker, CI/CD, REST APIs ,JWT Authentication
 
 
 ⚡ Fun Fact
