@@ -1,4 +1,5 @@
 👋 Hi, I’m Marzooq,
+
 🚀 Software Engineer | Crafting Optimized & Scalable Solutions
 
 👀 About Me
@@ -15,8 +16,10 @@ Backend: NestJS, Node.js, MongoDB,Golang
 State Management: Redux Toolkit, RTK Query
 Authentication: JWT, HTTP-only cookies
 Other Tools: Git, Docker, CI/CD, REST APIs
+
+
 ⚡ Fun Fact
-Did you know? As software engineers, we don’t just code—we write the rules that power everything from algorithms to artificial intelligence, making the impossible a reality!
+Did you know? As software engineers, we don’t just code, we write the rules that power everything from algorithms to artificial intelligence, making the impossible a reality!
 
 🌐 Let's Connect
 I’m always open to discussions around technology, optimization strategies, or even brainstorming new ideas. Don’t hesitate to reach out!
