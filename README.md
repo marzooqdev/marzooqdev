@@ -2,7 +2,7 @@
 
 🚀 Software Engineer | Crafting Optimized & Scalable Solutions
 
-👀 About Me
+👀 About Me:
 I’m a passionate software engineer with a deep interest in developing applications that are not only efficient but also scalable and resilient. My approach involves leveraging cutting-edge technologies and industry best practices to build systems that solve real-world problems.
 
 🌱 Current Focus:
