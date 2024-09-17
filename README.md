@@ -13,7 +13,9 @@ Here’s a quick overview of some tools and technologies I work with on a daily 
 
 Frontend: Next.js, React, Tailwind CSS, TypeScript
 
-Backend: NestJS, Node.js, MongoDB,Golang
+Backend: NestJS, Node.js, Golang
+
+Databases: MongoDB, MySQL, PostgreSQL
 
 Other Tools: Redux Toolkit, RTK Query, Git, Docker, CI/CD, REST APIs ,JWT Authentication
 
