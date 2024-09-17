@@ -9,12 +9,7 @@ I’m a passionate software engineer with a deep interest in developing applicat
 ---
 
 ### 🌱 Current Focus  
-I’m currently exploring ways to optimize performance in large-scale applications, focusing on backend systems, seamless integrations, and efficient tech stacks such as:
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+I’m currently building and exploring ways to optimize large-scale applications, focusing on backend systems, seamless integrations, and efficient software solutions.
 
 ---
 
